@@ -1,21 +1,18 @@
-# 📊 Financial Instruments Table
+# Financial Instruments Table
 
 This is a React + TypeScript single-page application that displays a sortable, styled table of financial instruments using AG Grid.
 
 ---
 
-## 🚀 Getting Started
-
-### ✅ Prerequisites
+### Prerequisites
 
 - **Node.js** (v18 or higher recommended)
-- **npm** (comes with Node)
 
 ---
 
-### 📦 Installation
+### Installation
 
 Clone the repo and install dependencies:
 
-npm install
-npm run dev
+1. npm install
+2. npm run dev
