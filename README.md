@@ -16,3 +16,7 @@ Clone the repo and install dependencies:
 
 1. npm install
 2. npm run dev
+
+### Running tests
+
+npm run test
